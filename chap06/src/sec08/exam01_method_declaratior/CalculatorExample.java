@@ -19,7 +19,7 @@ public class CalculatorExample {
 		System.out.println("result2 :"+result2);
 		
 		myCalc.powerOf();
-		
+		//
 	}
 
 }
